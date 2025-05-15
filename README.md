@@ -116,12 +116,10 @@
       elétrica com foco em produtividade e segurança no ambiente industrial.
     </p>
   </section>
-
   <div class="cta">
     <a href="https://wa.me/5544999979042" target="_blank">Solicitar Orçamento via WhatsApp</a>
   </div>
-
-  <footer>
+ <footer>
     © 2025 Evandro Eletricista. Todos os direitos reservados.
   </footer>
 
