@@ -1,5 +1,4 @@
 <title>Evandroo Eletricista</title>
-  <style>
     body {
       margin: 0;
       font-family: 'Segoe UI', sans-serif;
@@ -121,7 +120,3 @@
   </div>
  <footer>
     © 2025 Evandro Eletricista. Todos os direitos reservados.
-  </footer>
-
-</body>
-</html>
